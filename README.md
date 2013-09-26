@@ -1,0 +1,4 @@
+QtFlexibleArray
+===============
+
+The flexible array
